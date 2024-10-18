@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## DOCUMENTATION: 
+
+TITLE: Pixel Car Mania 
+
+Objective: Create a React UI project to test my UI game play abilities. 
+Goals: 
+    1. Create blah blah 
+    2. Created UI/UX pixel based game play, 
+    3. 
